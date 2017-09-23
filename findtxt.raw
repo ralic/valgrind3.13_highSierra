@@ -1,0 +1,5 @@
+configure.ac:425:		  AC_MSG_ERROR([Valgrind works on Darwin 10.x, 11.x, 12.x, 13.x, 14.x, 15.x and 16.x (Mac OS X 10.6/7/8/9/10/11 and macOS 10.12)])
+configure:5894:		  as_fn_error $? "Valgrind works on Darwin 10.x, 11.x, 12.x, 13.x, 14.x, 15.x and 16.x (Mac OS X 10.6/7/8/9/10/11 and macOS 10.12)" "$LINENO" 5
+autom4te.cache/output.0:5894:		  as_fn_error $? "Valgrind works on Darwin 10.x, 11.x, 12.x, 13.x, 14.x, 15.x and 16.x (Mac OS X 10.6/7/8/9/10/11 and macOS 10.12)" "$LINENO" 5
+autom4te.cache/output.1:5894:		  as_fn_error $? "Valgrind works on Darwin 10.x, 11.x, 12.x, 13.x, 14.x, 15.x and 16.x (Mac OS X 10.6/7/8/9/10/11 and macOS 10.12)" "$LINENO" 5
+config.log:527:configure:5894: error: Valgrind works on Darwin 10.x, 11.x, 12.x, 13.x, 14.x, 15.x and 16.x (Mac OS X 10.6/7/8/9/10/11 and macOS 10.12)
